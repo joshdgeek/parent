@@ -1,0 +1,3 @@
+[submodule "mylyrics"]
+	path = mylyrics
+	url = https://github.com/joshdgeek/mylyrics
